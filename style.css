@@ -1,0 +1,152 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    margin-bottom: 25px;
+}
+.header-color{
+    color: orange;
+}
+#header{
+    margin-left: 25px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+/* Header Section  */
+
+.half-width{
+    width: 50%;
+    float: left;
+    padding: 5%;
+   
+}
+.half-width img{
+    width: 85%;
+    margin-left: 20px;
+    
+}
+.line-design{
+    border-left: 4px solid orangered;
+    padding-left:10px ;
+}
+.exp-btn{
+    text-decoration: none;
+    background-color: orangered ;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.scroll-p{
+    margin-top: 40px;
+}
+/* mission-section */
+.mission-h2{
+    text-align: center;
+}
+.flex-mission{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.flex-card{
+    width: 25%;
+    /* margin-left: 5%; */
+    /* margin: 0 auto; */
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.card-color{
+    background-color:#EDF5F6;
+    margin-left:7%;
+}
+.card-color2{
+    background-color: #FFEEEE;
+    margin-left: 2%;
+}
+.card-color3{
+    background-color: #FFF4D6;
+    margin-left: 2%;
+    
+}
+.flex-card img{
+    width: 50%;
+}
+.coding-img{
+    width: 80%;
+}
+.bg-image{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+}
+.bg-image2{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-top: -20px;
+    background-size: 150px;
+}
+
+/* contact-section */
+.contact-box{
+    /* margin: 35px; */
+    text-align: center;
+}
+.contact-head{
+    text-align: center;
+    color: orange;
+}
+
+.input-field{
+    height: 40px;
+    width: 600px;
+    margin-top: 20px;
+    padding-left:20px ;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    outline: none;
+
+}
+.textarea-field{
+    height: 150px;
+    width: 600px;
+    margin-top: 20px;
+    padding-left:20px ;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 25px;
+
+}
+.submit-btn{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    margin-top: 18px;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+/* footer section */
+.footer{
+    background-color: black;
+   
+    text-align: center;
+    color: white;
+    padding: 2px 0 ;
+    margin-top: 50px;
+    
+
+}
+.footer-color{
+    color: orangered;
+}
