@@ -84,13 +84,13 @@ p{
     width: 80%;
 }
 .bg-image{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 200px;
 }
 .bg-image2{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     margin-top: -20px;
